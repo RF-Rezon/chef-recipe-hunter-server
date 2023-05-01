@@ -4,6 +4,10 @@ const app = express()
 const jsonFile = require("./chefs.json")
 const port = 5000
 
+app.get('/', (req, res) => {
+  res.send("Server is running 🔥")
+})
+
 app.get('/all', (req, res) => {
   res.send(jsonFile)
 })
