@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://images.pexels.com/photos/8793011/pexels-photo-8793011.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Massimo Bottura",
+    "years_of_experience": 10,
+    "number_of_recipes": 25,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Lasagna noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook lasagna noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://images.pexels.com/photos/11447740/pexels-photo-11447740.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Lidia Bastianich",
+    "years_of_experience": 8,
+    "number_of_recipes": 15,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Lasagna noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook lasagna noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Mario Batali",
+    "years_of_experience": 12,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Lasagna noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook lasagna noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Giada De Laurentiis",
+    "years_of_experience": 10,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Gualtiero Marchesi",
+    "years_of_experience": 15,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Carlo Cracco",
+    "years_of_experience": 12,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pesto",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chef_picture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Davide Oldani",
+    "years_of_experience": 13,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pesto",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chef_picture": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Niko Romito",
+    "years_of_experience": 16,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pesto",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chef_picture": "https://images.pexels.com/photos/8879620/pexels-photo-8879620.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Enrico Crippa",
+    "years_of_experience": 7,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pesto",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Gnocchi",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chef_picture": "https://images.pexels.com/photos/3873973/pexels-photo-3873973.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "chef_name": "Cristina Bowerman",
+    "years_of_experience": 10,
+    "number_of_recipes": 5,
+    "recipes": [
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "Tiramisu noodles",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook Tiramisu noodles according to package directions. In a separate pan, cook ground beef, onion, and garlic until beef is browned. Add tomato sauce and simmer for 10 minutes. In a bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. Layer noodles, beef mixture, and cheese mixture in a baking dish. Bake at 375°F for 25-30 minutes, until cheese is melted and bubbly.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "Boneless, skinless chicken breasts",
+          "Onion",
+          "Garlic",
+          "Curry powder",
+          "Coconut milk",
+          "Tomato paste",
+          "Lemon juice",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "In a pan, cook chicken until browned. Add onion and garlic and cook until softened. Stir in curry powder and cook for 1 minute. Add coconut milk, tomato paste, and lemon juice. Simmer for 10 minutes, until chicken is cooked through. Season with salt and pepper to taste. Serve over rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Gnocchi",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Chili powder",
+          "Cumin",
+          "Tomato sauce",
+          "Taco shells",
+          "Lettuce",
+          "Tomato",
+          "Sour cream",
+          "Shredded cheddar cheese"
+        ],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Bread crumbs",
+          "Egg",
+          "Milk",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Cook spaghetti according to package directions. In a bowl, mix together ground beef, bread crumbs, egg, milk, parmesan cheese, salt, and pepper. Roll into meatballs and cook in a separate pan until browned. Pour tomato sauce over meatballs and simmer for 10 minutes. Serve over spaghetti.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Pesto",
+        "ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar cheese", "Breadcrumbs"],
+        "cooking_method": "Cook macaroni according to package directions. In a pan, melt butter and stir in flour. Gradually stir in milk and cook until thickened. Add cheddar cheese and stir until melted. Mix cheese sauce with macaroni and pour into a baking dish. Sprinkle breadcrumbs over the top. Bake at 375°F for 20-25 minutes, until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  }
+]
