@@ -1,7 +1,9 @@
 [
   {
     "id": 1,
+    "bio": "Bottura is the chef patron of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative and avant-garde approach to Italian cuisine, blending traditional ingredients with modern techniques.",
     "chef_picture": "https://images.pexels.com/photos/8793011/pexels-photo-8793011.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "likes": 1002,
     "chef_name": "Massimo Bottura",
     "years_of_experience": 10,
     "number_of_recipes": 25,
@@ -81,7 +83,9 @@
   },
   {
     "id": 2,
+    "bio": "Bastianich is an Italian-American chef, television host, and author. She has written several cookbooks and has hosted cooking shows on PBS. Her style of cooking is influenced by the Friuli region of Italy, where she grew up. ",
     "chef_picture": "https://images.pexels.com/photos/11447740/pexels-photo-11447740.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "likes": 1056,
     "chef_name": "Lidia Bastianich",
     "years_of_experience": 8,
     "number_of_recipes": 15,
@@ -161,8 +165,10 @@
   },
   {
     "id": 3,
+    "bio": "Cracco is a Michelin-starred Italian chef who is known for his contemporary approach to Italian cuisine. He has worked in some of Italy's top restaurants, including the famous Enoteca Pinchiorri in Florence.",
     "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Mario Batali",
+    "likes": 1032,
+    "chef_name": "Carlo Cracco",
     "years_of_experience": 12,
     "number_of_recipes": 5,
     "recipes": [
@@ -241,8 +247,10 @@
   },
   {
     "id": 4,
+    "bio": "Crippa is the chef patron of Piazza Duomo, a three-Michelin-starred restaurant in Alba, Italy. He is known for his innovative approach to Italian cuisine, using fresh, local ingredients to create dishes that are both modern and traditional.",
     "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Giada De Laurentiis",
+    "likes": 1012,
+    "chef_name": "Enrico Crippa",
     "years_of_experience": 10,
     "number_of_recipes": 5,
     "recipes": [
@@ -321,8 +329,10 @@
   },
   {
     "id": 5,
+    "bio": "Scabin is the chef patron of Combal.Zero, a Michelin-starred restaurant in Rivoli, Italy. He is known for his avant-garde approach to Italian cuisine, using modern techniques to create visually stunning and delicious dishes.",
     "chef_picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Gualtiero Marchesi",
+    "likes": 1900,
+    "chef_name": "Davide Scabin",
     "years_of_experience": 15,
     "number_of_recipes": 5,
     "recipes": [
@@ -401,8 +411,10 @@
   },
   {
     "id": 6,
+    "bio": "Bowerman is a Michelin-starred Italian-American chef who owns the restaurant Glass Hostaria in Rome, Italy. She is known for her creative and contemporary approach to Italian cuisine, blending traditional ingredients with international flavors.",
     "chef_picture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Carlo Cracco",
+    "likes": 1299,
+    "chef_name": "Cristina Bowerman",
     "years_of_experience": 12,
     "number_of_recipes": 5,
     "recipes": [
@@ -481,8 +493,10 @@
   },
   {
     "id": 7,
+    "bio": "Cedroni is the chef patron of Madonnina del Pescatore, a two-Michelin-starred restaurant in Senigallia, Italy. He is known for his innovative approach to seafood, using unusual ingredients and techniques to create unique and delicious dishes.",
     "chef_picture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Davide Oldani",
+    "likes": 892,
+    "chef_name": "Moreno Cedroni",
     "years_of_experience": 13,
     "number_of_recipes": 5,
     "recipes": [
@@ -561,8 +575,10 @@
   },
   {
     "id": 8,
+    "bio": "Beck is a German-born chef who has worked in Italy for many years. He is the chef patron of La Pergola, a three-Michelin-starred restaurant in Rome, Italy. He is known for his contemporary approach to Italian cuisine, blending traditional ingredients with modern techniques.",
     "chef_picture": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Niko Romito",
+    "likes": 802,
+    "chef_name": "Heinz Beck",
     "years_of_experience": 16,
     "number_of_recipes": 5,
     "recipes": [
@@ -641,8 +657,10 @@
   },
   {
     "id": 9,
+    "bio": "Contaldo is a renowned Italian chef and restaurateur who has worked in some of London's top restaurants. He is known for his rustic, traditional Italian cooking and has written several cookbooks.",
     "chef_picture": "https://images.pexels.com/photos/8879620/pexels-photo-8879620.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Enrico Crippa",
+    "likes": 1230,
+    "chef_name": "Gennaro Contaldo",
     "years_of_experience": 7,
     "number_of_recipes": 5,
     "recipes": [
@@ -721,8 +739,10 @@
   },
   {
     "id": 10,
+    "bio": "Romito is the chef patron of Reale, a three-Michelin-starred restaurant in Castel di Sangro, Italy. He is known for his minimalist approach to Italian cuisine, focusing on the purity of ingredients and the essential flavors of each dish. ",
     "chef_picture": "https://images.pexels.com/photos/3873973/pexels-photo-3873973.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "chef_name": "Cristina Bowerman",
+    "likes": 980,
+    "chef_name": "Niko Romito",
     "years_of_experience": 10,
     "number_of_recipes": 5,
     "recipes": [
